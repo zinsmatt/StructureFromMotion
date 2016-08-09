@@ -7,11 +7,11 @@ The project was developed on Matlab with the Image Processing Toolbox and Peter 
 
 Algorithm :
 
-- Interest points detection using the Harris detector on both images
-- Matching by correlation of the detected points
-- Robust estimation of the fundamental matrix
-- Projection matrices reconstruction in the two images
-- Computation of the 3D structure by triangulation
+- Interest points detection using the Harris detector on both images</li>
+- Matching by correlation of the detected points</li>
+- Robust estimation of the fundamental matrix</li>
+- Projection matrices reconstruction in the two images</li>
+- Computation of the 3D structure by triangulation</li>
 
 
 #### Example of reconstruction
